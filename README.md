@@ -74,7 +74,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any inquiries or feedback, feel free to reach out:
 - Email: gulshanjaykar25@gmail.com
-- GitHub: [My-github-profile](https://github.com/ gulshanjaykar25)
+- GitHub: https://github.com/gulshanjaykar25
 
 PROJECT PREVIEW!!!!!!!!!
 
